@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25cn4b2LWd4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SeanGlover\\source\\repos\\BlazorWebAssemblyTutorial\\BlazorProject\\Shared\\BlazorProject.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SeanGlover\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

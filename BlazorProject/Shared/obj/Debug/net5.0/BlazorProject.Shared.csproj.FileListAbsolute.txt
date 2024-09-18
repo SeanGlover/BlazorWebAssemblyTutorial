@@ -1,0 +1,24 @@
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\bin\Debug\net5.0\BlazorProject.Shared.deps.json
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\bin\Debug\net5.0\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\bin\Debug\net5.0\BlazorProject.Shared.pdb
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.AssemblyInfoInputs.cache
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.AssemblyInfo.cs
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\refint\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.pdb
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\ref\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\NET 5 REST API Tutorial\.NET 5 REST API Tutorial\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.sourcelink.json
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\bin\Debug\net5.0\BlazorProject.Shared.deps.json
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\bin\Debug\net5.0\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\bin\Debug\net5.0\BlazorProject.Shared.pdb
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.AssemblyInfoInputs.cache
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.AssemblyInfo.cs
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.sourcelink.json
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\refint\BlazorProject.Shared.dll
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\BlazorProject.Shared.pdb
+C:\Users\SeanGlover\source\repos\BlazorWebAssemblyTutorial\BlazorProject\Shared\obj\Debug\net5.0\ref\BlazorProject.Shared.dll
